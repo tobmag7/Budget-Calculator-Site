@@ -1,2 +1,2 @@
-# Budget-Calculator-Site
-A Budget Calculator done with HTML5, CSS, JavaScript and JQuery
+# Budget-Calculator-And-Tracker
+A Budget Calculator and Tracker done with HTML5, CSS, JavaScript and JQuery
